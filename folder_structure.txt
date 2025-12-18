@@ -1,0 +1,43 @@
+[DIR] generalstore-frontend
+│   [FILE] .env
+│   [FILE] .gitignore
+│   [DIR] .vscode
+│       [FILE] settings.json
+│   [FILE] eslint.config.js
+│   [FILE] fldr.py
+│   [FILE] index.html
+│   [FILE] package-lock.json
+│   [FILE] package.json
+│   [DIR] public
+│       [FILE] vite.svg
+│   [FILE] README.md
+│   [DIR] src
+│   │   [DIR] api
+│   │   │   [FILE] axios.ts
+│   │       [FILE] types.ts
+│   │   [FILE] App.css
+│   │   [FILE] App.tsx
+│   │   [DIR] assets
+│   │       [FILE] react.svg
+│   │   [DIR] components
+│   │   │   [FILE] LoadingSpinner.tsx
+│   │   │   [FILE] Navbar.tsx
+│   │       [FILE] ProductCard.tsx
+│   │   [DIR] context
+│   │       [FILE] AuthContext.tsx
+│   │   [FILE] index.css
+│   │   [FILE] main.tsx
+│   │   [DIR] pages
+│   │   │   [FILE] Home.tsx
+│   │   │   [FILE] Login.tsx
+│   │   │   [FILE] OAuthCallback.tsx
+│   │   │   [FILE] Orders.tsx
+│   │   │   [FILE] Products.tsx
+│   │       [FILE] Register.tsx
+│   │   [DIR] routes
+│   │       [FILE] PrivateRoute.tsx
+│       [FILE] vite-env.d.ts
+│   [FILE] tsconfig.app.json
+│   [FILE] tsconfig.json
+│   [FILE] tsconfig.node.json
+    [FILE] vite.config.ts
